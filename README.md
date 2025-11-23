@@ -1,4 +1,6 @@
 # WATonomous ASD Admissions Assignment
+<img width="2028" height="966" alt="image" src="https://github.com/user-attachments/assets/6978be53-36f3-4eb2-917b-5f6cbfa16692" />
+
 
 ## Prerequisite Installation
 These steps are to setup the monorepo to work on your own PC. We utilize docker to enable ease of reproducibility and deployability.
